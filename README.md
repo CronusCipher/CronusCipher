@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE68yIJFHc/YWGcJ9m-TDbHRZLlFvXhRw/view?utm_content=DAE68yIJFHc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE68yIJFHc/YWGcJ9m-TDbHRZLlFvXhRw/view?utm_content=DAE68yIJFHc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
