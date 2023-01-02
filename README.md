@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Narimani</h1>
 <h3 align="center">A passionate Data Analysis, Bitcoiner & Blockchain Researcher</h3>
 
-- 👯 I’m looking to collaborate on **Data Science and Blockchain projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 👨‍💻 My project is available at [https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py](https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py)
 
