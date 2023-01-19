@@ -6,7 +6,7 @@
 - 👨‍💻 My project is available at [https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py](https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py)
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
-
+- 📖 My Resume :https://www.canva.com/design/DAE68yIJFHc/7rcoj_-RNZPpuLxIf7SOgg/view?utm_content=DAE68yIJFHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
