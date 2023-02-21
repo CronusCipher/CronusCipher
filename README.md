@@ -6,7 +6,7 @@
 - 👨‍💻 My project is available at [https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py](https://share.streamlit.io/lannamaria/quotes_for_posts_783/app_hard.py)
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
-- 📖 My Resume :https://www.canva.com/design/DAE68yIJFHc/7rcoj_-RNZPpuLxIf7SOgg/view?utm_content=DAE68yIJFHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📖 My Resume :[https://www.canva.com/design/DAE68yIJFHc/7rcoj_-RNZPpuLxIf7SOgg/view?utm_content=DAE68yIJFHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbNbuH9JA/FuPrV0z0UC5alR4iuI2FGg/view?utm_content=DAFbNbuH9JA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chap_dastt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chap_dastt" height="30" width="40" /></a>
