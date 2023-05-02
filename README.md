@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Narimani</h1>
-<h3 align="center">A passionate Data Analysis, Bitcoiner & Blockchain Researcher</h3>
+<h3 align="center">A passionate Data Analysis & Data Sceintist</h3>
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
