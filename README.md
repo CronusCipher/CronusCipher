@@ -7,7 +7,7 @@
 - 📖 My Resume :https://www.canva.com/design/DAFi_cKoBuY/0GpHua_4TbZxleia2Mty5w/view?utm_content=DAFi_cKoBuY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@chap_dastt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chap_dastt" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/ali-narimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-narimani" height="30" width="40" /></a>
 <a href="https://kaggle.com/alinarimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alinarimani" height="30" width="40" /></a>
 </p>
