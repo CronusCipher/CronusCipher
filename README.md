@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **Data Science projects**
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
-- 📖 My Resume :https://www.canva.com/design/DAFi_cKoBuY/jtsbP0Epzx8DLcgJ5NfCxg/edit?utm_content=DAFi_cKoBuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📖 My Resume :https://www.canva.com/design/DAFi_cKoBuY/0GpHua_4TbZxleia2Mty5w/view?utm_content=DAFi_cKoBuY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chap_dastt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chap_dastt" height="30" width="40" /></a>
