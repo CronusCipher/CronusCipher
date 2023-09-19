@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Narimani</h1>
-<h3 align="center">A passionate Data Analysis & Data Sceince</h3>
+<h3 align="center"> Data Analysis & Data Sceince</h3>
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 Now, I’m working as AI platform developer
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
 - 📖 My Resume :https://www.canva.com/design/DAFi_cKoBuY/0GpHua_4TbZxleia2Mty5w/view?utm_content=DAFi_cKoBuY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
