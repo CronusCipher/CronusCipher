@@ -4,7 +4,6 @@
 - 👯 Now, I’m working as AI platform developer
 
 - 📫 How to reach me **ali.narimani.88@gmail.com**
-- 📖 My Resume :https://www.canva.com/design/DAFxZvT1JaI/j-1txw9aJBMUB55-Xc5Vjg/view?utm_content=DAFxZvT1JaI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
