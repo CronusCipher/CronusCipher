@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Narimani</h1>
-<h3 align="center"> Data Analysis & Data Sceince</h3>
+<h3 align="center"> Machine Learning engineer - AI Developer</h3>
 
 - 👯 Now, I’m working as AI platform developer
 
