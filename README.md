@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ali Narimani-Zamanabadi
+# 👋 Hi, I’m Ali Narimani
 
 AI Developer • Machine Learning Engineer • Product Owner  
 Building practical AI systems with real-world impact
