@@ -24,8 +24,9 @@ into **usable AI products**.
 
 ## 📫 Contact
 
-- LinkedIn: *(add if you want)*
+- LinkedIn: 
 https://www.linkedin.com/in/ali-narimani/
----
+- Email: ali.narimani.88@gmail.com
+
 
 > *Build AI that understands context — not just tokens.*
